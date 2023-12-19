@@ -1,4 +1,4 @@
-# This is a lang page
+# This is a landing page
 
 Reactstrap or React-Bootstrap is incorporated into this project.
 
@@ -9,4 +9,9 @@ Reactstrap or React-Bootstrap is incorporated into this project.
 > Hover feature on shopping button with slightly color change
 > The footer section incorporates the social media links 
 
-### 
+### Tech Skills
+> HTML
+> CSS
+> JavaScript
+> React
+> Bootstrap
