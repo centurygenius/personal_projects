@@ -1,0 +1,21 @@
+.nav-bar-items .cat-item:hover{
+    cursor: pointer;
+}
+
+.nav-board-div h2 {
+    margin-top: 15px;
+}
+
+.nav-board-div p, div {
+    text-align: center;
+    font-weight: bold;
+}
+
+.nav-board-div div select {
+    margin-left: 5px;
+}
+
+.footer p {
+    color: white;
+    padding-top: 15px;
+}
